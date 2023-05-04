@@ -3,11 +3,11 @@
 #### My Laptop Specs opencore support (Dell G3 3590)
 
 | Part        | Version                                                                            |
-| ----------- | ---------------------------------------------------------------------------------- | --- |
+| ----------- | ---------------------------------------------------------------------------------- |
 | CPU         | Intel i5 9th GEN (Coffee Lake 0x0906EAE)                                           |
 | GPU         | Intel UHD 630                                                                      |
 | MOTHERBORAD | ALL SUPPORTED                                                                      |
-| WIFI        | [Patch](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/discussions/115) |     |
+| WIFI        | [Patch](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/discussions/115) |
 | STORAGE     | ALL SUPPORTED                                                                      |
 | CHIPSET     | Intel 300 series chipset family LPC Controller (HM370) - A30D                      |
 | AUDIO       | VEN_10EC&DEV_0295 (MAIN)                                                           |
